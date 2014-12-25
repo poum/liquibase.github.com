@@ -65,7 +65,7 @@ Les développeurs enregistrent les modifications de la base de données dans des
 <h3>Change Set</h3>
 <p>
 Les Change Sets (ou ensembles de modifications) sont identifiés de manière unique grâce aux attributs "author" et "id" ainsi que grâce à l''emplacement du fichier changelog. Ils sont l''unité de base dont Liquibase trace l''exécution. Quand Liquibase s''exécute, il interroge la table DATABASECHANGELOG pour voir les changesets qui sont indiqués comme ayant déjà été exécutés puis exécute toutes les changesets du fichier changelog qui n''ont pas encore été exécutés.
- <a href="databasechangelog.html">[more]</a>
+ <a href="databasechangelog.html">[en savoir plus]</a>
 </p>
 
 <h3>Changes</h3>
